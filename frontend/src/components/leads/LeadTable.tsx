@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Edit2, Trash2, Eye, ChevronUp, ChevronDown } from 'lucide-react';
+import { Edit2, Trash2, Eye, ChevronUp} from 'lucide-react';
 import { Lead } from '../../types';
 import { Badge } from '../ui/Badge';
 import { Button } from '../ui/Button';
