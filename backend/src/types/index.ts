@@ -31,10 +31,7 @@ export interface ILead {
 }
 
 export interface AuthRequest extends Request {
-  user?: {
-    id: string;
-    role: UserRole;
-  };
+  user?: any;
 }
 
 export interface PaginationQuery {
